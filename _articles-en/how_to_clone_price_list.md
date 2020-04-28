@@ -15,7 +15,7 @@ Go to “Manage > Net rates > My rates”.
 
 ## **Step 2**
 
-Click on "Сlone" menu item in the ellipsis menu. 
+Click on icon cloning price list.
 
 ![How_to_clone_price-list1](/assets/images/how_to_clone_price-list1.png)
 
